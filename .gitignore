@@ -1,0 +1,13 @@
+app/downloaded_videos/
+app/transcripts/
+__pycache__/
+*.pyc
+src/narrative_bias/downloaded_videos/
+src/narrative_bias/models/narrative_bias/checkpoint-*/
+src/narrative_bias/results/
+src/narrative_bias/transcripts/
+src/narrative_bias/results/checkpoint-*/
+*.pt
+*.pth
+*.safetensors
+explanation_*.html
