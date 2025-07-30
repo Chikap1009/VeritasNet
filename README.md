@@ -134,5 +134,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 💬 Contact
 
 For questions or collaboration:  
-📧 your-email@example.com  
+📧 chiragkapoor1009@gmail.com  
 GitHub: [@Chikap1009](https://github.com/Chikap1009)
